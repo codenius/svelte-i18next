@@ -38,6 +38,7 @@
   },
   "scripts": {
     "build": "tsc",
+    "prepare": "npm run build",
     "validate": "svelte-check",
     "prepublishOnly": "npm run build",
     "test": "jest"
