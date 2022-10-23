@@ -18,6 +18,7 @@
   },
   "main": "index.js",
   "types": "index.d.ts",
+  "type": "module",
   "license": "MIT",
   "files": [
     "package.json",
